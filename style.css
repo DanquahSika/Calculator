@@ -1,0 +1,23 @@
+
+.num{
+	border-right: solid 1px grey;
+	border-bottom: solid 1px grey;
+	border-left: solid 1px grey;
+	background: #ccc;
+	padding: 1rem;
+	text-align: center;
+}
+
+.col1 {
+	text-align: right;
+	background-color: grey;
+	color:white;
+}
+
+.sign {border-right: solid 1px grey;
+	border-bottom: solid 1px grey;
+	background-color: orange;
+	color:white;
+	padding: 1rem;
+	text-align: center;
+}
